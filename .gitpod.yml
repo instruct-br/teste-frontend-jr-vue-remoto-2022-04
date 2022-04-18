@@ -1,0 +1,13 @@
+tasks:
+  - init: |
+      npm ci
+    command: npm run dev
+
+ports:
+  - port: 3000
+    visibility: private
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - johnsoncodehk.volar
