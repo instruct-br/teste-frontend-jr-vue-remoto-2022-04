@@ -1,7 +1,7 @@
-# Teste Técnico Desenvolvedor(a) Frontend Júnior [REMOTO]
+# Teste Técnico Desenvolvedor(a) Frontend Júnior Vue.js [REMOTO]
 
 Neste repositório você encontra o enunciado do teste técnico para a vaga de
-_Desenvolvedor(a) Frontend Júnior [REMOTO]_ da 
+_Desenvolvedor(a) Frontend Júnior Vue.js [REMOTO]_ da 
 [Instruct](https://instruct.com.br/)! Você provavelmente chegou aqui através da 
 indicação de alguma pessoa da empresa após passar pelas 
 [outras etapas](https://instruct.com.br/trabalhe-com-a-gente/processo-de-selecao/)
@@ -11,7 +11,7 @@ alguma solução para este exercício ele **não** será avaliado.
 > Você _pode_ usar o problema descrito aqui para exercitar suas habilidades de
 > desenvolvimento, mas a sua solução será avaliada por alguém da Instruct
 > **apenas se** você estiver no processo seletivo da vaga de _Desenvolvedor(a) 
-> Frontend Júnior [REMOTO]_.
+> Frontend Júnior Vue.js [REMOTO]_.
 Para saber mais sobre a empresa, leia o [FAQ](#FAQ)
 
 ## O problema
