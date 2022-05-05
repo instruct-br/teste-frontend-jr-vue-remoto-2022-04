@@ -52,9 +52,12 @@ devem estar visíveis: _Argentina_, _Bolivia_ e _Paraguay_.
 
 ## Avaliação
 
+A build do seu projeto precisa funcionar com Node.js 14 ou mais recente.
+
 Você deve escrever sua solução usando Vue 3, subir o código fonte num
 repositório privado do GitHub e fazer deploy no _Hobby Tier_ da
-[Vercel](https://vercel.com/).
+[Vercel](https://vercel.com/). Você pode usar o esqueleto de projeto neste
+repositório como ponto de partida.
 
 Quando finalizar a implementação, adicione o usuário `instruct-selecao` como
 colaborador no seu repositório do GitHub até o fim do prazo estipulado.
